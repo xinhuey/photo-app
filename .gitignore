@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+
+# Electron specific temporary files or directories (if any)
+electron-debug/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
